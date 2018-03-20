@@ -12,7 +12,7 @@
           
           
           
-        <Column0>244</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+        <Column0>152</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
       </Workspace>
       <Build>
         
@@ -25,7 +25,7 @@
     <Windows>
       
       
-    <Wnd2>
+    <Wnd0>
         <Tabs>
           <Tab>
             <Identity>TabID-20440-22461</Identity>
@@ -37,7 +37,7 @@
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
         <Tabs>
           <Tab>
             <Identity>TabID-22782-24055</Identity>
@@ -47,20 +47,20 @@
           </Tab>
         <Tab><Identity>TabID-3830-4360</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
     <Editor>
       
       
       
       
-    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\APP\app.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>225</SelStart><SelEnd>225</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ST\CMSIS\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>5154</SelStart><SelEnd>5154</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ST\stm32f10x_flash.icf</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\APP\includes.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BSP\bsp_usart.c</Filename><XPos>0</XPos><YPos>255</YPos><SelStart>8001</SelStart><SelEnd>8001</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ST\startup\iar\startup_stm32f10x_hd.s</Filename><XPos>0</XPos><YPos>78</YPos><SelStart>5607</SelStart><SelEnd>5624</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\APP\app.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>1129</SelStart><SelEnd>1129</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ST\CMSIS\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>5154</SelStart><SelEnd>5154</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ST\stm32f10x_flash.icf</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\APP\includes.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BSP\bsp_usart.c</Filename><XPos>0</XPos><YPos>255</YPos><SelStart>8001</SelStart><SelEnd>8001</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ST\startup\iar\startup_stm32f10x_hd.s</Filename><XPos>0</XPos><YPos>78</YPos><SelStart>5607</SelStart><SelEnd>5624</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
     <Positions>
       
       
       
       
       
-    <Top><Row0><Sizes><Toolbar-025e1a58><key>iaridepm.enu1</key></Toolbar-025e1a58></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>728</Bottom><Right>318</Right><x>-2</x><y>-2</y><xscreen>181</xscreen><yscreen>124</yscreen><sizeHorzCX>94271</sizeHorzCX><sizeHorzCY>124248</sizeHorzCY><sizeVertCX>166667</sizeVertCX><sizeVertCY>731463</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>225</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>227</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>227455</sizeHorzCY><sizeVertCX>94271</sizeVertCX><sizeVertCY>124248</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-0083e038><key>iaridepm.enu1</key></Toolbar-0083e038></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>487</Bottom><Right>226</Right><x>-2</x><y>-2</y><xscreen>129</xscreen><yscreen>85</yscreen><sizeHorzCX>94436</sizeHorzCX><sizeHorzCY>123907</sizeHorzCY><sizeVertCX>166911</sizeVertCX><sizeVertCY>712828</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>154</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>156</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>227405</sizeHorzCY><sizeVertCX>94436</sizeVertCX><sizeVertCY>123907</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 
