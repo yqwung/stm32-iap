@@ -1,0 +1,50 @@
+[DebugChecksum]
+Checksum=-158691299
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=134653244
+Graph=0
+Symbiont=0
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "C:\Program Files\IAR Systems\Embedded Workbench 6.0\arm\inc\c\DLib_Product_string.h" ""
+A1=_ "C:\Users\Administrator\Desktop\stm32_bootloader\APP\app.c" ""
+A2=_ "C:\Users\Administrator\Desktop\stm32_bootloader\USER_LIB\vfifo.c" ""
+A3=_ "D:\Users\Administrator\Desktop\stm32_bootloader\APP\app.c" ""
+A4=_ "D:\Users\Administrator\Desktop\stm32_bootloader\USER_LIB\vfifo.c" ""
+A5=_ "E:\A-ksxd_work\STM32-UART-BOOTLOADER\APP\app.c" ""
+A6=_ "F:\work\SMC-V2\ing\stm32_bootloader\APP\app.c" ""
+Count=7
+SuppressDialog=1
